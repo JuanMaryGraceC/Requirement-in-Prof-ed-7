@@ -1,6 +1,0 @@
----
-title: "untitled"
-author: "Grace Juan"
-format: html
-editor: visual
----
